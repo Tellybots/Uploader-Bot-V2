@@ -49,15 +49,15 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "763990585"
     },
     "BROADCAST_AS_COPY": {
       "description": "Value Will Be True or False",
-      "value": ""
+      "value": "false"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "ir_uploadbot"
     }
   },
   "addons": [
